@@ -36,6 +36,6 @@ def keybm():
             time.sleep(0.2) 
         if keyboard.is_pressed('esc'):
             stop_clicking()
-            print("bye)
+            print("bye")
             break
 keybm()
